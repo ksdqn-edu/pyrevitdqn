@@ -15,7 +15,7 @@ from Microsoft.Office.Interop import Excel
 from Microsoft.Office.Interop.Excel import*
 from System.Runtime.InteropServices import Marshal
 #XlListObjectSourceType, Worksheet, Range, XlYesNoGuess,XlReferenceStyle
-from pyrevitmep import excel
+from pyrevit.pyrevitmep import excel
 #from xlwings import *
 
 
